@@ -1,0 +1,26 @@
+[
+  {
+    "user": "0",
+    "sequence": [
+      { "item": 1, "rating": 1},
+      { "item": 2, "rating": 1},
+      { "item": 3, "rating": 5}
+    ]
+  },
+  {
+    "user": "1",
+    "sequence": [
+      { "item": 1, "rating": 4},
+      { "item": 2, "rating": 3},
+      { "item": 4, "rating": 2}
+    ]
+  },
+  {
+    "user": "2",
+    "sequence": [
+      { "item": 4, "rating": 3},
+      { "item": 5, "rating": 3},
+      { "item": 6, "rating": 1}
+    ]
+  }
+]

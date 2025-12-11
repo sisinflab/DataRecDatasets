@@ -1,0 +1,26 @@
+[
+  {
+    "user": "0",
+    "sequence": [
+      { "item": 1, "rating": 1, "timestamp": "001" },
+      { "item": 2, "rating": 1, "timestamp": "022" },
+      { "item": 3, "rating": 5, "timestamp": "032" }
+    ]
+  },
+  {
+    "user": "1",
+    "sequence": [
+      { "item": 1, "rating": 4, "timestamp": "011" },
+      { "item": 2, "rating": 3, "timestamp": "013" },
+      { "item": 4, "rating": 2, "timestamp": "015" }
+    ]
+  },
+  {
+    "user": "2",
+    "sequence": [
+      { "item": 4, "rating": 3, "timestamp": "000" },
+      { "item": 5, "rating": 3, "timestamp": "010" },
+      { "item": 6, "rating": 1, "timestamp": "040" }
+    ]
+  }
+]

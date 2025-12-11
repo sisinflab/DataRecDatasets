@@ -1,0 +1,26 @@
+[
+  {
+    "user": "0",
+    "sequence": [
+      { "item": 1},
+      { "item": 2},
+      { "item": 3}
+    ]
+  },
+  {
+    "user": "1",
+    "sequence": [
+      { "item": 1},
+      { "item": 2},
+      { "item": 4}
+    ]
+  },
+  {
+    "user": "2",
+    "sequence": [
+      { "item": 4},
+      { "item": 5},
+      { "item": 6}
+    ]
+  }
+]
