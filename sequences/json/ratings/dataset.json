@@ -1,17 +1,17 @@
 {
   "0": [
-    { "item": 1, "ratings": 1},
-    { "item": 2, "ratings": 1},
-    { "item": 3, "ratings": 5}
+    { "item": 1, "rating": 1},
+    { "item": 2, "rating": 1},
+    { "item": 3, "rating": 5}
   ],
   "1": [
-    { "item": 1, "ratings": 4},
-    { "item": 2, "ratings": 3},
+    { "item": 1, "rating": 4},
+    { "item": 2, "rating": 3},
     { "item": 4, "ratings": 2}
   ],
   "2": [
-    { "item": 4, "ratings": 3},
-    { "item": 5, "ratings": 3},
-    { "item": 6, "ratings": 1}
+    { "item": 4, "rating": 3},
+    { "item": 5, "rating": 3},
+    { "item": 6, "rating": 1}
   ]
 }
